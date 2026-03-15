@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/logo.png" width="120">
+  <img src="media/logo.png" width="480">
 </p>
 
 # Research Methodology – UEH  
